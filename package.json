@@ -3,8 +3,8 @@
   "description": "Foundry-based template for developing Solidity smart contracts",
   "version": "1.0.0",
   "author": {
-    "name": "Paul Razvan Berg",
-    "url": "https://github.com/PaulRBerg"
+    "name": "0xnightfall.eth",
+    "url": "https://github.com/Nightfallsh4"
   },
   "dependencies": {
     "@ERC4337/account-abstraction": "github:kopy-kat/account-abstraction#develop",
