@@ -15,3 +15,5 @@ module-bases/=node_modules/module-bases/src/
 
 solady/=node_modules/solady/src/
 solarray/=node_modules/solarray/src/
+
+@safe-global/safe-contracts/=node_modules/@safe-global/safe-contracts
